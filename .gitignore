@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+# Flask / SQLite
+tasks.db
+*.db
+# VS Code
+.vscode/
